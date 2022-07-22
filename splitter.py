@@ -35,5 +35,3 @@ def split(filename, dir_in, t_size):
     print('\nWygenerowano tile.')
 
 split(args.name, args.dir_in, args.t_size)
-#test
-#test2
