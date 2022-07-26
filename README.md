@@ -2,7 +2,7 @@
 Easy and fast partitioning of image.
 
 <b>Usage</b>
-<pre>python splitter.py --name image_name --dir_in directory_path --t_size tile_size</pre>
+<pre>python splitter.py --path images_path --t_size tile_size</pre>
 
 <b>Input</b>
 
